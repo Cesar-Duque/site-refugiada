@@ -14,7 +14,7 @@ body {
 }
 
 body {
-  background-image: url(/imgs/fields.jpg);
+  background-image: url(./imgs/fields.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
