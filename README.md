@@ -252,7 +252,7 @@ No final deixei o site responsivo para tablets de largura 768px usando Media Que
 
 JavaScript
 
-Primeiramente foi desenvolvido um código que coleta o ano atual de seua máquina e apresenta no html
+Primeiramente foi desenvolvido um código que coleta o ano atual de sua máquina e apresenta no html
 
     document.getElementById("display-current-year").innerHTML =
     new Date().getFullYear();
